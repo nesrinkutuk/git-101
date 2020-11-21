@@ -1,9 +1,10 @@
 # git-101
-Ben Nesrin
+Ben Nesrin,
 23 yaşındayım.
-Gaziantep Üniversitesi İnşaat mühendisliği son sınıf öğrencisiyim.
+Almanya'da doğdum.
+Gaziantep Üniversitesi İnşaat Mühendisliği son sınıf öğrencisiyim.
 İngilizce ve Almanca biliyorum.
-Almanya da doğdum.
-email: neskutuk27@hotmail.com
-adres: Gazi Mahallesi/Şehitkamil/Gaziantep
-telefon: 05053095035
+Kitap okumayı ve seyahat etmeyi çok severim.
+Email: neskutuk27@hotmail.com
+Adres: Gazi Mahallesi/Şehitkamil/Gaziantep
+
